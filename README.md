@@ -19,7 +19,7 @@
 | @batibatou   | Côme      | Thibault |
 
 | @kev-15      | Kévin     | Wattebled|
-|@elkhalloukisara|EL KHALLOUKI|Sara   |
+|@elkhalloukisara|Sara|EL KHALLOUKI   |
 
 =======
 | @IsraSmida   | Isra      | Smida    |
