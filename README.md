@@ -3,6 +3,7 @@
 
 | github login | Firstname | Lastname |
 | ------------ | --------- | -------- |
+| @barbaluc    | Lucas     | Barbay   |
 | @pigne       | Yoann     | Pigné    |
 <<<<<<< HEAD
 | @kev-15      | Kévin     | Wattebled|
