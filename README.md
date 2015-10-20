@@ -10,7 +10,6 @@
 | @youness     | Youness   | Khater   |
 |@XavierDEBUF   |Xavier     | DEBUF    |
 | @batibatou   | Côme      | Thibault |
-|@elkhalloukisara|EL KHALLOUKI|Sara   |
 |@elkhalloukisara|Sara|EL KHALLOUKI   |
 | @IsraSmida   | Isra      | Smida    |
 | @Tomelon     | Tommy     | Alexandre|
