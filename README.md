@@ -17,4 +17,5 @@
 | @IsraSmida   | Isra      | Smida    |
 | @Tomelon     | Tommy     | Alexandre|
 |@kradwane     | Radhouane | KORCHID  |
+|@sidikhalifa  | sidi      | khalifa |
 
