@@ -7,6 +7,6 @@
 | @batibatou   | Côme      | Thibault |
 | @kev-15      | Kévin     | Wattebled|
 |@elkhalloukisara|EL KHALLOUKI|Sara   |
-| @Servuc      | Thomas    | SELLE    |
+| @IsraSmida   | Isra      | Smida    |
 |              |           |          |
 | @Tomelon     | Tommy     | Alexandre|
